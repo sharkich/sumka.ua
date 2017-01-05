@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background:red;
+	color:#fff;
+	font-size:100%;
+	text-align:center;
+}
+
+h2{font-size:70px; margin:0.5em 0 0 0; padding:0; font-weight:normal;}
+
+a, a:link, a:visited {color:#999; text-decoration:underline;}
+a:hover {color:#fff; text-decoration:none;}
+
+em {font-size:18px;}
+
+#topm {text-align:left;}
+
+#copy {margin:5em 0 0 0;}
+
+#spam {font-size:100px;color:#333;}
+#spam p {font-size:12px;color:#333;}
+#spam a, #spam a:link, #spam a:visited {color:#333;  text-decoration:none;}
+#spam a:hover {color:#333;  text-decoration:none;}
